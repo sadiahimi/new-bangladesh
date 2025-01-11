@@ -76,6 +76,7 @@ button:hover {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    
 }
 
 .card {
@@ -214,6 +215,7 @@ button:hover {
 
   .news-content .read-more:hover {
     background-color: #004d00;
+    transform: scale(1.05);
   }
 
   .quote-section {
